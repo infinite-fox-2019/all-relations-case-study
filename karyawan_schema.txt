@@ -1,0 +1,9 @@
+Tabel Employee memiliki atribut 'role' untuk mengakomodir data manajer.
+Satu departemen setidaknya memiliki satu karyawan yaitu manajer dan bisa memiliki banyak karyawan.
+Satu karyawan memiliki satu departemen dan asumsi setiap karyawan harus memiliki departemen.
+Artinya, relasi Department ke Employee adalah '1 Mandatory to Many Mandatory'
+
+Satu karyawan bisa memiliki banyak proyek dan asumsi karyawan tidak harus punya proyek.
+Satu setidaknya dikerjakan satu karyawan dan bisa dikerjakan banyak karyawan.
+Artinya, relasi Employee ke Project adalah 'Many Mandatory to Many Optional'
+Karena relasi M to M, dibuat bridge table Employee Project
