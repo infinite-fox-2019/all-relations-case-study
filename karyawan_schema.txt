@@ -1,3 +1,5 @@
+https://imgur.com/kbLvB0W
+
 Tabel Employee memiliki atribut 'role' untuk mengakomodir data manajer.
 Satu departemen setidaknya memiliki satu karyawan yaitu manajer dan bisa memiliki banyak karyawan.
 Satu karyawan memiliki satu departemen dan asumsi setiap karyawan harus memiliki departemen.
