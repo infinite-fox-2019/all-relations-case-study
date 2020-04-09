@@ -1,0 +1,5 @@
+tiap perusahaan memiliki banyak project, dan perusahaan memiliki banyak karyawan semua memiliki NIK.
+
+setiap karyawan memiliki 1 id pengenal sebagai karyawan.
+
+hanya ada 1 manager di tiap departemen
